@@ -1,5 +1,8 @@
   
-
+.image{
+    width: 100%;
+   
+}
 .old-price{
   text-decoration-line: line-through;
   text-decoration-color:gray;
@@ -7,14 +10,14 @@
   font-size: 15px;
   display: inline;
   margin-left: 10px;
-   padding-bottom: 20px;
+   
 }
 
 .new-price{
    display: inline;
    font-size: 25px;
-   font-weight: 10px;
-    padding-bottom: 20px;
+   font-weight: 5px;
+    
 }
 
 .dis{
@@ -22,7 +25,7 @@
   color:rgb(84, 81, 81);
   display: inline;
   margin-left: 10px;
-   padding-bottom: 20px;
+   
 }
 
 .type{
@@ -36,20 +39,22 @@
 .courses{
  border-style: solid;
  border-width: 1px;
- border-color: grey;
- border-radius: 10px;
- padding-left: 20px;
- margin-right:1090px;
+ border-color: rgb(169, 166, 166);
+ border-radius: 5px;
+ width:300px;
+ overflow: hidden;
+
+  
 }
 a {
-  color:green; 
-}
+  color:green;
+   text-decoration: none;
 
-/* .card{
-            width: 320px;
-            border: 1px solid lightgray;
-            border-radius: 10px;
-            padding: 10px;
-            margin: 20px;
-        }
- */
+    display: inline-block;
+
+    margin-top: 15px;
+
+}
+.content{
+  padding: 15px;
+}
