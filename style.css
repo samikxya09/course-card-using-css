@@ -1,0 +1,55 @@
+  
+
+.old-price{
+  text-decoration-line: line-through;
+  text-decoration-color:gray;
+  color:gray;
+  font-size: 15px;
+  display: inline;
+  margin-left: 10px;
+   padding-bottom: 20px;
+}
+
+.new-price{
+   display: inline;
+   font-size: 25px;
+   font-weight: 10px;
+    padding-bottom: 20px;
+}
+
+.dis{
+  font-size: 15px;
+  color:rgb(84, 81, 81);
+  display: inline;
+  margin-left: 10px;
+   padding-bottom: 20px;
+}
+
+.type{
+  color:grey;
+}
+
+.title{
+  color:green
+}
+
+.courses{
+ border-style: solid;
+ border-width: 1px;
+ border-color: grey;
+ border-radius: 10px;
+ padding-left: 20px;
+ margin-right:1090px;
+}
+a {
+  color:green; 
+}
+
+/* .card{
+            width: 320px;
+            border: 1px solid lightgray;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 20px;
+        }
+ */
